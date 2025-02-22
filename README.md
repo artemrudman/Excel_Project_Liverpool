@@ -27,7 +27,7 @@ All my route - from cleaning, filtering and merging relevant data to creation ta
 
 ## ep.03
 ![](screenshots/5.jpg)
-We can see two explicit descending periods that are conditioned by: 
+- We can see two explicit descending periods that are conditioned by: 
  1. Start of tournament - time for adjusting new tactics and “injection” new players in the team
  2. Boxing Day period (end of December)- the busiest time by games with high intensity and competitiveness.
 
