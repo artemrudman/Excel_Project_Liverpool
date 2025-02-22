@@ -7,7 +7,7 @@ Last 10 years gave us so much information and new parameters like xG, personal s
 ## ep.01 
 step - to find a digital platform can give me ALL this information in a convenient, transform and “catchable” format. And it is fbref.com.
 
-![Alt text](assets/my-image.png)
+![fbref.com](screenshots/1.png)
 
 I just grabbed, transformed and loaded data from there to excel through Power Query.
 
