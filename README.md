@@ -9,6 +9,9 @@ First step - to find a digital platform can give me ALL this information in a co
 
 ![fbref.com](screenshots/1.png)
 
+<img src="screenshots/1.png" width="300">
+
+
 I just grabbed, transformed and loaded data from there to excel through Power Query.
 
 ![](screenshots/2.png)
