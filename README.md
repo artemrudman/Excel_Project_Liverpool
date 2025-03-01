@@ -63,7 +63,7 @@ The **first layer of analysis** explores the **average points per matchweek** th
 ## **Episode 4: Consolidating Last Season’s Data**  
 
 ### **Building a Comprehensive Data Table**  
-
+<img src="screenshots/DashBoard.gif" width="600">
 <img src="screenshots/raw_data.gif" width="500">
 
 To gain deeper insights, I compiled **all key statistics from the last EPL season** into a single table. This involved:  
