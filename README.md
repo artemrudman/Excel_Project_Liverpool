@@ -84,8 +84,3 @@ To gain deeper insights, I compiled **all key statistics from the last EPL seaso
 - **Comparative analysis of top teams over the years**  
 
 Let me know if you have any thoughts or suggestions! 🚀
-
-
-
-Let me know if you have any thoughts or suggestions! 🚀
-
