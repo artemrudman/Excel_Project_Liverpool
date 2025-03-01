@@ -4,6 +4,8 @@ This project - my own research on English Premier League.
 
 Last 10 years gave us so much information and new parameters like xG, personal stats and tremendous pile of data for analysis. 
 
+<img src="screenshots/DashBoard.gif" width="600">
+
 ## ep.01 
 [LinkedIn video post](https://www.linkedin.com/posts/activity-7293237953995169792-YBYH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADpQVc4BrwbeJFx-PIAICJAsX_a9lFKcf8k)
 - First step - to find a digital platform can give me ALL this information in a convenient, transform and “catchable” format. And it is fbref.com.
