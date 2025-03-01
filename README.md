@@ -60,12 +60,32 @@ The **first layer of analysis** explores the **average points per matchweek** th
 
 ---
 
+## **Episode 4: Consolidating Last Season’s Data**  
+
+### **Building a Comprehensive Data Table**  
+
+To gain deeper insights, I compiled **all key statistics from the last EPL season** into a single table. This involved:  
+✅ Merging data from **9 different tables**  
+✅ Connecting by **matchweek** and **team**  
+✅ Cleaning and structuring the dataset  
+✅ Sorting for better analysis  
+
+📊 **Final dataset:** **64 columns** of detailed and exhaustive EPL data.  
+
+🎥 **See the final result in the video below!**  
+
+---
+
 ## **Next Steps & Future Insights**  
 
 🔎 **This is just the beginning!** I have multiple **analysis objectives**, and I’ll be sharing insights step by step. Stay tuned for:  
 - **Team-specific trends & performance patterns**  
 - **Impact of new signings & tactical shifts**  
 - **Comparative analysis of top teams over the years**  
+
+Let me know if you have any thoughts or suggestions! 🚀
+
+
 
 Let me know if you have any thoughts or suggestions! 🚀
 
