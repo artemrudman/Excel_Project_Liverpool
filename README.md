@@ -74,7 +74,6 @@ To gain deeper insights, I compiled **all key statistics from the last EPL seaso
 
 📊 **Final dataset:** **64 columns** of detailed and exhaustive EPL data.  
 
-🎥 **See the final result in the video below!**  
 
 ---
 
